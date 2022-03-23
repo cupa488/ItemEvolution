@@ -1,0 +1,7 @@
+name: Prueba
+version: '${project.version}'
+main: me.okramt.prueba.Prueba
+api-version: 1.18
+libraries:
+  - 'com.h2database:h2:2.1.210'
+
