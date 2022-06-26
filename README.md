@@ -2,6 +2,7 @@
 
 A plugin that makes it possible to upgrade items to others.
 
+- 1_8_R3 | 1.8.4 | 1.8.5 | 1.8.6 | 1.8.7 | 1.8.8
 
 
 <!--
