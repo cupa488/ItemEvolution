@@ -6,8 +6,9 @@ A plugin that makes it possible to upgrade items to others.
 
 https://github.com/cupa488/cupa488/raw/main/1_8_R3/ItemEvolution.jar
 
+- 1_9_R0 (*1.9*)
 
-
+https://github.com/cupa488/ItemEvolution/raw/main/1_9_R0/ItemEvolution.jar
 
 <!--
 **cupa488/cupa488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
