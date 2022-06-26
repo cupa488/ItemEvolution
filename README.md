@@ -1,4 +1,8 @@
-### Hi there 👋
+### ItemEvolution 👋
+
+- A plugin that makes it possible to upgrade items to others.
+
+
 
 <!--
 **cupa488/cupa488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
