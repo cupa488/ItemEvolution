@@ -43,6 +43,10 @@ A plugin that makes it possible to upgrade items to others.
 - https://github.com/cupa488/ItemEvolution/raw/main/1_12_R1/ItemEvolution.jar
 -----------------------------------
 
+1_13_R1 (*1.13*)
+
+- https://github.com/cupa488/ItemEvolution/raw/main/1_13_R1/ItemEvolution.jar
+-----------------------------------
 
 <!--
 **cupa488/cupa488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
