@@ -55,7 +55,7 @@ A plugin that makes it possible to upgrade items to others.
 
 1_14_R1 (*1.14 | 1.14.1 | 1.14.2 | 1.14.3 | 1.14.4*)
 
-- https://github.com/cupa488/ItemEvolution/raw/main/1_14_R1/ItemEvolution.jar
+- 
 -----------------------------------
 
 
