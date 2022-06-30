@@ -30,7 +30,7 @@ https://github.com/cupa488/ItemEvolution/raw/main/1_10_R1/ItemEvolution.jar
 
 https://github.com/cupa488/ItemEvolution/raw/main/1_11_R1/ItemEvolution.jar
 
-- 1_11_R1 (*1.12 | 1.12.1 | 1.12.2*)
+- 1_12_R1 (*1.12 | 1.12.1 | 1.12.2*)
 
 https://github.com/cupa488/ItemEvolution/raw/main/1_12_R1/ItemEvolution.jar
 
