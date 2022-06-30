@@ -22,6 +22,9 @@ https://github.com/cupa488/ItemEvolution/raw/main/1_9_R1/ItemEvolution.jar
 
 https://github.com/cupa488/ItemEvolution/raw/main/1_9_R2/ItemEvolution.jar
 
+- 1_10_R1 (*1.10 | 1.10.2*)
+
+https://github.com/cupa488/ItemEvolution/raw/main/1_10_R1/ItemEvolution.jar
 
 
 <!--
