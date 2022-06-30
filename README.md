@@ -1,4 +1,4 @@
-### ItemEvolution 🔪 => 🗡
+### ItemEvolution 🔪 🠮 🗡
 
 A plugin that makes it possible to upgrade items to others.
 
