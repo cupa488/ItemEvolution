@@ -10,6 +10,10 @@ https://github.com/cupa488/cupa488/raw/main/1_8_R3/ItemEvolution.jar
 
 https://github.com/cupa488/ItemEvolution/raw/main/1_9_R1/ItemEvolution.jar
 
+- 1_9_R0 (*1.9.4*)
+
+https://github.com/cupa488/ItemEvolution/raw/main/1_9_R2/ItemEvolution.jar
+
 <!--
 **cupa488/cupa488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
