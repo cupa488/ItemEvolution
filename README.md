@@ -6,6 +6,10 @@ A plugin that makes it possible to upgrade items to others.
 
 https://github.com/cupa488/ItemEvolution/raw/main/1_8_R1/ItemEvolution.jar
 
+- 1_8_R2 (*1.8.3*)
+
+https://github.com/cupa488/ItemEvolution/raw/main/1_8_R2/ItemEvolution.jar
+
 - 1_8_R3 (*1.8.4 | 1.8.5 | 1.8.6 | 1.8.7 | 1.8.8*)
 
 https://github.com/cupa488/cupa488/raw/main/1_8_R3/ItemEvolution.jar
@@ -17,7 +21,6 @@ https://github.com/cupa488/ItemEvolution/raw/main/1_9_R1/ItemEvolution.jar
 - 1_9_R2 (*1.9.4*)
 
 https://github.com/cupa488/ItemEvolution/raw/main/1_9_R2/ItemEvolution.jar
-
 
 
 
