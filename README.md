@@ -3,42 +3,42 @@
 A plugin that makes it possible to upgrade items to others.
 -----------------------------------
 
-* 1_8_R1 (*1.8*)
+1_8_R1 (*1.8*)
 
 - https://github.com/cupa488/ItemEvolution/raw/main/1_8_R1/ItemEvolution.jar
 -----------------------------------
 
-* 1_8_R2 (*1.8.3*)
+1_8_R2 (*1.8.3*)
 
 - https://github.com/cupa488/ItemEvolution/raw/main/1_8_R2/ItemEvolution.jar
 -----------------------------------
 
-* 1_8_R3 (*1.8.4 | 1.8.5 | 1.8.6 | 1.8.7 | 1.8.8*)
+1_8_R3 (*1.8.4 | 1.8.5 | 1.8.6 | 1.8.7 | 1.8.8*)
 
 - https://github.com/cupa488/cupa488/raw/main/1_8_R3/ItemEvolution.jar
 -----------------------------------
 
-* 1_9_R1 (*1.9 | 1.9.2*)
+1_9_R1 (*1.9 | 1.9.2*)
 
 - https://github.com/cupa488/ItemEvolution/raw/main/1_9_R1/ItemEvolution.jar
 -----------------------------------
 
-* 1_9_R2 (*1.9.4*)
+1_9_R2 (*1.9.4*)
 
 - https://github.com/cupa488/ItemEvolution/raw/main/1_9_R2/ItemEvolution.jar
 -----------------------------------
 
-* 1_10_R1 (*1.10 | 1.10.2*)
+1_10_R1 (*1.10 | 1.10.2*)
 
 - https://github.com/cupa488/ItemEvolution/raw/main/1_10_R1/ItemEvolution.jar
 -----------------------------------
 
-* 1_11_R1 (*1.11 | 1.11.1 | 1.11.2*)
+1_11_R1 (*1.11 | 1.11.1 | 1.11.2*)
 
 - https://github.com/cupa488/ItemEvolution/raw/main/1_11_R1/ItemEvolution.jar
 -----------------------------------
 
-* 1_12_R1 (*1.12 | 1.12.1 | 1.12.2*)
+1_12_R1 (*1.12 | 1.12.1 | 1.12.2*)
 
 - https://github.com/cupa488/ItemEvolution/raw/main/1_12_R1/ItemEvolution.jar
 -----------------------------------
