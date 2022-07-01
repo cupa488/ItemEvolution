@@ -112,11 +112,6 @@
 - https://github.com/cupa488/ItemEvolution/raw/main/1_18_R2/ItemEvolution.jar
 -----------------------------------
 
-## 1_19_R1 (*1.19*)
-###### Version: 1.0.2
-
-- https://github.com/cupa488/ItemEvolution/raw/main/1_19_R1/ItemEvolution.jar
------------------------------------
 
 
 
