@@ -62,3 +62,42 @@ A plugin that makes it possible to upgrade items to others.
 
 - https://github.com/cupa488/ItemEvolution/raw/main/1_15_R1/ItemEvolution.jar
 -----------------------------------
+
+1_16_R1 (*1.16.1*)
+
+- https://github.com/cupa488/ItemEvolution/raw/main/1_16_R1/ItemEvolution.jar
+-----------------------------------
+
+1_16_R2 (*1.16.2 | 1.16.3*)
+
+- https://github.com/cupa488/ItemEvolution/raw/main/1_16_R2/ItemEvolution.jar
+-----------------------------------
+
+1_16_R3 (*1.16.4 | 1.16.5*)
+
+- https://github.com/cupa488/ItemEvolution/raw/main/1_16_R3/ItemEvolution.jar
+-----------------------------------
+
+1_17_R1 (*1.17 | 1.17.1*)
+
+- https://github.com/cupa488/ItemEvolution/raw/main/1_17_R1/ItemEvolution.jar
+-----------------------------------
+
+1_18_R1 (*1.18 | 1.18.1*)
+
+- https://github.com/cupa488/ItemEvolution/raw/main/1_18_R1/ItemEvolution.jar
+-----------------------------------
+
+1_18_R2 (*1.18.2*)
+
+- https://github.com/cupa488/ItemEvolution/raw/main/1_18_R2/ItemEvolution.jar
+-----------------------------------
+
+1_19_R1 (*1.19*)
+
+- https://github.com/cupa488/ItemEvolution/raw/main/1_19_R1/ItemEvolution.jar
+-----------------------------------
+
+
+
+
