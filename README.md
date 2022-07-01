@@ -1,6 +1,7 @@
 # ItemEvolution 🔪 🠮 🗡
 ## A plugin that makes it possible to upgrade items to others.
 ###### Plugin Version: 1.0.1
+###### Size: 104 KB
 -----------------------------------
 
 ## 1_8_R1 (*1.8*) 
